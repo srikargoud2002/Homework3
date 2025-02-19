@@ -27,5 +27,5 @@ def test_operation_record_repr():
 
 def test_division_by_zero():
     record = OperationRecord(Decimal('10'), Decimal('0'), div_numbers)
-    with pytest.raises(ValueError, match="Division by zero is not allowed"):
+    with pytest.raises(ValueError, match="Cannot divide by zero"):
         record.execute()

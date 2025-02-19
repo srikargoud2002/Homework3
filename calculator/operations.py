@@ -11,5 +11,5 @@ def mul_numbers(x: Decimal, y: Decimal) -> Decimal:
 
 def div_numbers(x: Decimal, y: Decimal) -> Decimal:
     if y == 0:
-        raise ValueError("Division by zero is not allowed")
+        raise ValueError("Cannot divide by zero")
     return x / y
