@@ -2,8 +2,8 @@
 
 import pytest
 from app import App
-from app.commands.goodbye import GoodbyeCommand
-from app.commands.greet import GreetCommand
+from app.plugins.goodbye import GoodbyeCommand
+from app.plugins.greet import GreetCommand
 
 def test_greet_command(capfd):
     """Tests for the greet class."""
