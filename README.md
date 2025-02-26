@@ -1,0 +1,3 @@
+- Added Plugins
+- Added REPL
+- Added Menu to fetch commands from Plugins
