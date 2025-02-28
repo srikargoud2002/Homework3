@@ -9,13 +9,18 @@ from dotenv import load_dotenv
 class App:
     def __init__(self):
         self.command_handler = CommandHandler()
+        self.settings = {}
         self.load_environment()
 
 
     def load_environment(self):
-        load_dotenv()  
-        self.environment = os.getenv('ENVIRONMENT', 'production')
-        print(f"Running in {self.environment} environment")
+        load_dotenv()  # Load environment variables from .env file
+        self.settings = dict(os.environ)
+        environment = self.get_environment_variable()
+        print(f"Environment loaded: {environment}")
+
+    def get_environment_variable(self, env_var: str = 'ENVIRONMENT'):
+        return self.settings.get(env_var, None)
 
 
     def load_plugins(self):
