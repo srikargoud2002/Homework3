@@ -2,11 +2,22 @@ from app.commands import CommandHandler
 import pkgutil
 import importlib
 from app.commands import Command
+import os
+from dotenv import load_dotenv
 
 
 class App:
     def __init__(self):
         self.command_handler = CommandHandler()
+        self.load_environment()
+
+
+    def load_environment(self):
+        load_dotenv()  
+        self.environment = os.getenv('ENVIRONMENT', 'production')
+        print(f"Running in {self.environment} environment")
+
+
     def load_plugins(self):
         plugins_package = 'app.plugins'
         for _, plugin_name, is_pkg in pkgutil.iter_modules([plugins_package.replace('.', '/')]):
