@@ -7,6 +7,14 @@ from app.plugins.subtract import SubtractCommand
 from app.plugins.multiply import MultiplyCommand
 from app.plugins.divide import DivideCommand
 
+def test_app_get_environment_variable():
+    """Test that the Environment Variable is Loading"""
+    app = App()
+#   Retrieve the current environment setting
+    current_env = app.get_environment_variable('ENVIRONMENT')
+    # Assert that the current environment is what you expect
+    assert current_env in ['DEVELOPMENT', 'TESTING', 'PRODUCTION'], f"Invalid ENVIRONMENT: {current_env}"
+
 def test_app_start_exit_command(capfd, monkeypatch):
     """Test that the REPL exits correctly on 'exit' command."""
     # Simulate user entering 'exit'

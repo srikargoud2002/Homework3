@@ -1,0 +1,285 @@
+2025-02-27 20:43:18 - root - INFO - Logging configured.
+2025-02-27 20:51:15 - root - INFO - Logging configured.
+2025-02-27 20:51:15 - root - INFO - Environment variables loaded.
+2025-02-27 20:51:15 - root - INFO - Loading plugins from app.plugins
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: add
+2025-02-27 20:51:15 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: discord
+2025-02-27 20:51:15 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: divide
+2025-02-27 20:51:15 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: exit
+2025-02-27 20:51:15 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 20:51:15 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: greet
+2025-02-27 20:51:15 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: menu
+2025-02-27 20:51:15 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 20:51:15 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 20:51:15 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 20:51:15 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 20:51:15 - root - INFO - Finished loading plugins
+2025-02-27 20:54:43 - root - INFO - Logging configured.
+2025-02-27 20:54:43 - root - INFO - Environment variables loaded.
+2025-02-27 20:54:43 - root - INFO - Loading plugins from app.plugins
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: add
+2025-02-27 20:54:43 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: discord
+2025-02-27 20:54:43 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: divide
+2025-02-27 20:54:43 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: exit
+2025-02-27 20:54:43 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 20:54:43 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: greet
+2025-02-27 20:54:43 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: menu
+2025-02-27 20:54:43 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 20:54:43 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 20:54:43 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 20:54:43 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 20:54:43 - root - INFO - Finished loading plugins
+2025-02-27 20:54:43 - root - INFO - Application started
+2025-02-27 20:54:46 - root - INFO - Executing command: add
+2025-02-27 20:54:56 - root - WARNING - Unknown command attempted: sd
+2025-02-27 20:55:03 - root - INFO - Exit command received
+2025-02-27 21:36:31 - root - INFO - Logging configured.
+2025-02-27 21:36:31 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:31 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:36:31 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:36:31 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:36:31 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:36:31 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:36:31 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:36:31 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:36:31 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:36:31 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:36:31 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:36:31 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:36:31 - root - INFO - Finished loading plugins
+2025-02-27 21:36:31 - root - INFO - Application started
+2025-02-27 21:36:34 - root - INFO - Exit command received
+2025-02-27 21:36:34 - root - INFO - Application exiting
+2025-02-27 21:36:34 - root - INFO - Application shutdown complete
+2025-02-27 21:36:58 - root - INFO - Logging configured.
+2025-02-27 21:36:58 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:58 - root - INFO - Logging configured.
+2025-02-27 21:36:58 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:58 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Finished loading plugins
+2025-02-27 21:36:58 - root - INFO - Application started
+2025-02-27 21:36:58 - root - INFO - Exit command received
+2025-02-27 21:36:58 - root - INFO - Application exiting
+2025-02-27 21:36:58 - root - INFO - Application shutdown complete
+2025-02-27 21:36:58 - root - INFO - Logging configured.
+2025-02-27 21:36:58 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:58 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Finished loading plugins
+2025-02-27 21:36:58 - root - INFO - Application started
+2025-02-27 21:36:58 - root - WARNING - Unknown command attempted: unknown_command
+2025-02-27 21:36:58 - root - INFO - Exit command received
+2025-02-27 21:36:58 - root - INFO - Application exiting
+2025-02-27 21:36:58 - root - INFO - Application shutdown complete
+2025-02-27 21:36:58 - root - INFO - Logging configured.
+2025-02-27 21:36:58 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:58 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Finished loading plugins
+2025-02-27 21:36:58 - root - INFO - Application started
+2025-02-27 21:36:58 - root - INFO - Executing command: greet
+2025-02-27 21:36:58 - root - INFO - Exit command received
+2025-02-27 21:36:58 - root - INFO - Application exiting
+2025-02-27 21:36:58 - root - INFO - Application shutdown complete
+2025-02-27 21:36:58 - root - INFO - Logging configured.
+2025-02-27 21:36:58 - root - INFO - Environment variables loaded.
+2025-02-27 21:36:58 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:36:58 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:36:58 - root - INFO - Finished loading plugins
+2025-02-27 21:36:58 - root - INFO - Application started
+2025-02-27 21:36:58 - root - INFO - Executing command: menu
+2025-02-27 21:36:58 - root - INFO - Exit command received
+2025-02-27 21:36:58 - root - INFO - Application exiting
+2025-02-27 21:36:58 - root - INFO - Application shutdown complete
+2025-02-27 21:37:41 - root - INFO - Logging configured.
+2025-02-27 21:37:41 - root - INFO - Environment variables loaded.
+2025-02-27 21:37:41 - root - INFO - Logging configured.
+2025-02-27 21:37:41 - root - INFO - Environment variables loaded.
+2025-02-27 21:37:41 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Finished loading plugins
+2025-02-27 21:37:41 - root - INFO - Application started
+2025-02-27 21:37:41 - root - INFO - Exit command received
+2025-02-27 21:37:41 - root - INFO - Logging configured.
+2025-02-27 21:37:41 - root - INFO - Environment variables loaded.
+2025-02-27 21:37:41 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Finished loading plugins
+2025-02-27 21:37:41 - root - INFO - Application started
+2025-02-27 21:37:41 - root - WARNING - Unknown command attempted: unknown_command
+2025-02-27 21:37:41 - root - INFO - Exit command received
+2025-02-27 21:37:41 - root - INFO - Logging configured.
+2025-02-27 21:37:41 - root - INFO - Environment variables loaded.
+2025-02-27 21:37:41 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Finished loading plugins
+2025-02-27 21:37:41 - root - INFO - Application started
+2025-02-27 21:37:41 - root - INFO - Executing command: greet
+2025-02-27 21:37:41 - root - INFO - Exit command received
+2025-02-27 21:37:41 - root - INFO - Logging configured.
+2025-02-27 21:37:41 - root - INFO - Environment variables loaded.
+2025-02-27 21:37:41 - root - INFO - Loading plugins from app.plugins
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully registered command AddCommand for plugin: add
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DiscordCommand for plugin: discord
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully registered command DivideCommand for plugin: divide
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully registered command ExitCommand for plugin: exit
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GoodbyeCommand for plugin: goodbye
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully registered command GreetCommand for plugin: greet
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MenuCommand for plugin: menu
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully registered command MultiplyCommand for plugin: multiply
+2025-02-27 21:37:41 - root - INFO - Successfully imported plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Successfully registered command SubtractCommand for plugin: subtract
+2025-02-27 21:37:41 - root - INFO - Finished loading plugins
+2025-02-27 21:37:41 - root - INFO - Application started
+2025-02-27 21:37:41 - root - INFO - Executing command: menu
+2025-02-27 21:37:41 - root - INFO - Exit command received
