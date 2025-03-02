@@ -1,3 +1,6 @@
 - Added Plugins
 - Added REPL
 - Added Menu to fetch commands from Plugins
+- Added Logging
+- Added Environmental Variables
+- Github actions are set
