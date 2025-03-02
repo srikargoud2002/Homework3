@@ -4,3 +4,5 @@
 - Added Logging
 - Added Environmental Variables
 - Github actions are set
+- 95% conf score
+- All Pytests Passed
